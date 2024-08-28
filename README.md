@@ -1,13 +1,3 @@
----
-permalink: /about/
-title: "READ (about) ME 👋"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
-sidebar:
-  nav: "sidebar-category"
----
-
 ![android-chrome-512x512 dev](https://github.com/sunhome243/sunhome243.github.io/assets/107231365/9fdd82d5-1ac7-4824-9b8c-f80d313e89ab)
 
 # 👨‍💻 Hello World, I am Sunho!
