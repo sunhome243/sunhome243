@@ -44,12 +44,6 @@ I'm a passionate **DevOps engineer** and **backend developer** with a love for d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhome243&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunhome243&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 📚 Projects & 💡 Collaboration
 
 I believe in the power of teamwork and effective communication. Check out some of my work:
