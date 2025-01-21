@@ -40,10 +40,6 @@ I'm a passionate **DevOps engineer** and **backend developer** with a love for d
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhome243&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 📚 Projects & 💡 Collaboration
 
 I believe in the power of teamwork and effective communication. Check out some of my work:
