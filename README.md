@@ -34,12 +34,6 @@ I'm a passionate **DevOps engineer** and **backend developer** with a love for d
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunhome243&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunhome243&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Skills Overview
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhome243&layout=compact&theme=radical" alt="Most Used Languages" />
