@@ -45,9 +45,8 @@ I believe in the power of teamwork and effective communication. Check out some o
 - [Minor Projects](https://sunhome243.github.io/tags/#minor-projects) : Small side projects usually worked by myself.
 
 ## 🔄 Recent Activity
-<!--START_SECTION:activity-->
-<!-- This section can be automatically updated using GitHub Workflows -->
-<!--END_SECTION:activity-->
+- https://sunhome243.github.io/prism-v0/
+- https://sunhome243.github.io/tech-doc/
 
 ## 🤝 Let's Connect!
 I'm always open to new opportunities and collaborations. If you're looking for backend or DevOps skills for your next project, let's chat!
