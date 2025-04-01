@@ -46,7 +46,8 @@ I believe in the power of teamwork and effective communication. Check out some o
 
 ## 🔄 Recent Activity
 - [Prism Project Deployment Document](https://sunhome243.github.io/prism-v0/)
-- [Prism Project Deployment Document](https://sunhome243.github.io/tech-doc/)
+- [Prism Project Technical Document](https://sunhome243.github.io/tech-doc/)
+- [Prism Project Repository](https://github.com/sunhome243/AI_LED_Backend)
 
 ## 🤝 Let's Connect!
 I'm always open to new opportunities and collaborations. If you're looking for backend or DevOps skills for your next project, let's chat!
