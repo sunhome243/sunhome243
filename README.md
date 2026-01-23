@@ -5,75 +5,76 @@
 
 ## 🎓 Education
 **Denison University**
-- B.A. Computer Science | GPA: 3.85/4.0
+- B.A. Computer Science | GPA: 3.8/4.0
 - Expected Graduation: Spring 2027
 
 ## 🚀 About Me
-I'm a passionate **DevOps engineer** and **backend developer** with experience leading technical teams and developing cloud-native solutions. I thrive on automating processes, designing scalable architectures, and implementing robust CI/CD pipelines. Currently serving as a Technical Lead at TeamUp (Almaworks Accelerator) and a Software Engineering Intern at Wondermove's R&D Center.
+I'm a passionate **DevOps engineer** and **backend developer** with experience leading technical teams and developing cloud-native solutions. I thrive on automating processes, designing scalable architectures, and implementing robust CI/CD pipelines. My recent work includes architecting AI-driven dashboards and developing productivity tools for students.
 
 ## 🔥 Interests & 🎯 Goals
 - **DevOps Engineering**: Building efficient CI/CD pipelines and infrastructure as code
 - **Backend Development**: Creating scalable microservices with Go and Python
-- **Cloud Architecture**: Designing resilient distributed systems on AWS and Azure
-- **Vehicle Telemetry**: Processing and analyzing real-time automotive data
+- **Cloud Architecture**: Designing resilient distributed systems on AWS
+- **AI Integration**: Architecting agent-based infrastructure and unifying AI tooling
 
 ## 🛠️ Skills & 💪 Expertise
-### Programming Languages and Libraries
+### Programming Languages
 ![Python (2+ years)](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://sunhome243.github.io/tags/#fast-api)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://sunhome243.github.io/tags/#flask)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Software Tools & Technologies
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://sunhome243.github.io/tags/#docker)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://sunhome243.github.io/tags/#kubernetes)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://sunhome243.github.io/tags/#fast-api)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://sunhome243.github.io/tags/#postgre-sql)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Istio](https://img.shields.io/badge/-Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🏢 Experience
-### TeamUp | Almaworks Accelerator (May 2025 - Present)
+### TeamUp | Almaworks Accelerator (May 2025 - August 2025)
 **Technical Lead**
-- Leading technical direction and system architecture for a mobile application with a team of 4 developers
-- Developing core backend using FastAPI and PostgreSQL with robust CI/CD pipelines
-- Reduced deployment time by 70% through DevOps infrastructure with GitHub Actions, Terraform, and Docker
+- Led a team of 4 developers using Agile methodology with daily standups and 2-week sprints
+- Implemented test-driven development practices achieving 80% code coverage and conducted thorough code reviews
+- Developed core backend functionality using Python FastAPI and PostgreSQL, focusing on clean, maintainable architecture
 
-### Wondermove, R&D Center (May 2025 - Present)
+### Wondermove, R&D Center (June 2025 - August 2025)
 **Software Engineering Intern**
-- Building distributed vehicle telemetry systems with Go microservices, reducing data analysis latency by 40%
-- Implementing cloud-native patterns with Kubernetes and Istio to achieve 99.9% service uptime
-- Integrating predictive maintenance algorithms with 85% accuracy for vehicle issue detection
+- Delivered AI-driven dashboard POC within 10 days, serving multiple job roles through dynamic component generation
+- Architected data processing pipeline using Claude Code SDK and MCP integration for real-time dashboard rendering
+- Led dual role as developer and PM, conducting user needs analysis directly with CEO to drive product strategy
 
 ### Wondermove, R&D Center (April 2024 - August 2024)
 **Software Development Intern**
-- Automated CI/CD pipelines with GitHub Actions, reducing deployment time by 40%
-- Researched eBPF technology for cloud-native infrastructure management
+- Automated CI/CD pipelines using GitHub Actions, reducing deployment time by 40%
+- Conducted cloud-native infrastructure research, reducing resource usage by 30% and enhancing reliability
 - Utilized Azure DevOps for collaborative development in a team environment
 
 ## 🚀 Projects
-### AI-Powered Smart Lighting (Jan 2024 - April 2024)
-- **1st Place** in Denison University StartUp Competition
-- Built event-driven architecture using AWS serverless technologies (Lambda, API Gateway, DynamoDB)
-- Achieved $0.01 per 150 AI requests with Gemini AI, enabling 97% gross margins
+### Cross-platform AI Student Assignment Manager (Sept 2025 - Present)
+- **1st Place Winner** at Denison StartUp Idea Competition
+- Architected serverless AI agent infrastructure with AWS Lambda proxy layer and DynamoDB agent memory
+- Integrated Gemini SDK for AI capabilities and developed Lambda-based interactive UI generator ensuring FERPA compliance
 
-### Workout App (June 2024 - Oct 2024)
-- Designed microservices architecture with FastAPI and PostgreSQL
-- Deployed on Azure Kubernetes Service with Helm and Terraform
-- Scaled to 1,468 RPS under 100k load with 68ms mean response time
+### AI CLI Unification NPM Package (July 2025 - August 2025)
+- Reverse engineered Claude Code and Gemini CLI architectures to build a unified AI CLI npm package (170 downloads in 3 days)
+- Pioneered cost-optimization approach using tiered AI models (advanced for planning, lightweight for execution)
+- Validated market need through rapid community adoption and open source contribution
 
-## 🏆 Certifications
-- AWS Certified Solution Architect Associate (SAA-CO3) | Expires: Nov 2027
-- HashiCorp Certified Terraform Associate (003) | Expires: Dec 2026
+### AI-Powered Smart Lighting System (Jan 2025 - April 2025)
+- **1st Place Winner** in Denison StartUp Competition
+- Built modular event-driven architecture using AWS Lambda and API Gateway for real-time lighting recommendations
+- Achieved $0.01 per 150 AI requests operational cost while maintaining high performance
 
-## 🔄 Recent Activity
-- [Prism Project Deployment Document](https://sunhome243.github.io/prism-v0/)
-- [Prism Project Technical Document](https://sunhome243.github.io/tech-doc/)
-- [Prism Project Repository](https://github.com/sunhome243/AI_LED_Backend)
+## 🏆 Certifications & Honors
+- **Forbes B. Wiley Award**: Awarded for Excellence in Mathematics and Computer Science at Denison University
+- **AWS All Builders Welcome Grant Recipient (re:Invent 2025)**: Awarded for innovation and commitment to building impactful solutions
+- **AWS Certified Solution Architect Associate (SAA-CO3)** | Expires: Nov 2027
+- **HashiCorp Certified Terraform Associate (003)** | Expires: Dec 2026
 
 ## 🤝 Let's Connect!
 I'm always open to new opportunities and collaborations. If you're looking for backend or DevOps expertise for your next project, let's chat!
